@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603927995 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre ii\algoritmos b\proyecto_farmacia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
